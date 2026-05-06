@@ -1,0 +1,11 @@
+name: ecb-sentiment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+  - beautifulsoup4
+  - matplotlib
+  - wordcloud
+  - textblob
